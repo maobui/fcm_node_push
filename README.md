@@ -3,4 +3,4 @@
 Use fcm-node (https://www.npmjs.com/package/fcm-node) to push.
 
 useage : 
-	npm send.js
+	node send.js
